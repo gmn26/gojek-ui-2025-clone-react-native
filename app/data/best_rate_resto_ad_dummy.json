@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "restaurant_distance": "0.5 km",
+    "restaurant_name": "Warung Sate Pak Jono",
+    "restaurant_rate": 4.8,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuUQRv5jt9Uyex5W86wRbSNnJpz2VIq1jaoOEHX"
+  },
+  {
+    "id": 2,
+    "restaurant_distance": "1.2 km",
+    "restaurant_name": "Bakmi Gajah Mada",
+    "restaurant_rate": 4.7,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuUqdKVgrAMI7LAcBRXCEzO29oKZm0sJjNghPHG"
+  },
+  {
+    "id": 3,
+    "restaurant_distance": "2.0 km",
+    "restaurant_name": "Ayam Geprek Mbok Sri",
+    "restaurant_rate": 4.5,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuU6fTxsFwdbJvz2AImTqRpYDx0agB3WytECLcl"
+  },
+  {
+    "id": 4,
+    "restaurant_distance": "3.5 km",
+    "restaurant_name": "Bebek Goreng Haji Slamet",
+    "restaurant_rate": 4.6,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuUNgZZzfuaQm31H7MBWAY4hFZLkgzvuJXE92Di"
+  },
+  {
+    "id": 5,
+    "restaurant_distance": "1.8 km",
+    "restaurant_name": "Martabak Manis Bangka 88",
+    "restaurant_rate": 4.4,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuUsrYISKc7TW6lq5zNfnhgYkPwMdH8tpOxrC30"
+  },
+  {
+    "id": 6,
+    "restaurant_distance": "2.3 km",
+    "restaurant_name": "Es Teh Nusantara",
+    "restaurant_rate": 4.3,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuU9Ub9rdxM2FBJ8kdtM69AviNaZrxeGgYw7Ryf"
+  },
+  {
+    "id": 7,
+    "restaurant_distance": "0.9 km",
+    "restaurant_name": "Pecel Lele Lamongan Mas Joko",
+    "restaurant_rate": 4.1,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuU9UEDiAtM2FBJ8kdtM69AviNaZrxeGgYw7Ryf"
+  },
+  {
+    "id": 8,
+    "restaurant_distance": "1.1 km",
+    "restaurant_name": "Nasi Goreng Mafia",
+    "restaurant_rate": 4.2,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuUu0K4o0OJX81MBgau5HVkmI2C6QrdTFhtle0z"
+  },
+  {
+    "id": 9,
+    "restaurant_distance": "3.0 km",
+    "restaurant_name": "Sop Buntut Bu Tien",
+    "restaurant_rate": 4.9,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuUSvbx0C1N0zuUInKLAvSXfHeR4cYrTa7Emstb"
+  },
+  {
+    "id": 10,
+    "restaurant_distance": "2.7 km",
+    "restaurant_name": "Gado-Gado Betawi Ny. Haji",
+    "restaurant_rate": 4.5,
+    "restaurant_image": "https://7p5xvpqjt5.ufs.sh/f/SM5IUq1N0zuUBra8ZP3QwUWmsu4e5Vkq2YaNzXbjJZ391hGA"
+  }
+]

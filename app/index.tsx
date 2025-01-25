@@ -3,6 +3,10 @@ import { ScrollView, Text, TouchableOpacity, View } from "react-native";
 import BalanceInformation from "./components/balance_information";
 import FeaturesGridview from "./components/features_gridview";
 import SmallPromoCard from "./components/small_promo_card";
+import RepeatOrderRecommendation from "./components/repeat_order_recommendation";
+import PromoPictureContainer from "./components/promo_picture_container";
+import BestRateRestoAd from "./components/best_rate_resto_ad";
+import LastOrdered from "./components/last_oredered";
 
 export default function Index() {
   return (
@@ -13,9 +17,10 @@ export default function Index() {
       <BalanceInformation />
       <FeaturesGridview />
       <SmallPromoCard />
-      <View className="w-full my-2 px-4">
-        <TouchableOpacity className="h-40 bg-slate-300 rounded-2xl" />
-      </View>
+      <RepeatOrderRecommendation />
+      <PromoPictureContainer />
+      <BestRateRestoAd />
+      <LastOrdered />
     </ScrollView>
   );
 }
